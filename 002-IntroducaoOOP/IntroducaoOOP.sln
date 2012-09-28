@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-Construtores", "007-Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-ConstrutorComParametroOpcional", "008-ConstrutorComParametroOpcional\008-ConstrutorComParametroOpcional.csproj", "{3957858B-F4C8-45A5-A719-F7F54B4FF0F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-HerancaComConstrutor", "009-HerancaComConstrutor\009-HerancaComConstrutor.csproj", "{E8083992-816A-4CDB-82F2-1E47B0223000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-HerancaComConstrutor", "010-HerancaComConstrutor\010-HerancaComConstrutor.csproj", "{7B4DE5FB-BC53-41C3-BA8E-63A35404A796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +59,14 @@ Global
 		{3957858B-F4C8-45A5-A719-F7F54B4FF0F6}.Debug|x86.Build.0 = Debug|x86
 		{3957858B-F4C8-45A5-A719-F7F54B4FF0F6}.Release|x86.ActiveCfg = Release|x86
 		{3957858B-F4C8-45A5-A719-F7F54B4FF0F6}.Release|x86.Build.0 = Release|x86
+		{E8083992-816A-4CDB-82F2-1E47B0223000}.Debug|x86.ActiveCfg = Debug|x86
+		{E8083992-816A-4CDB-82F2-1E47B0223000}.Debug|x86.Build.0 = Debug|x86
+		{E8083992-816A-4CDB-82F2-1E47B0223000}.Release|x86.ActiveCfg = Release|x86
+		{E8083992-816A-4CDB-82F2-1E47B0223000}.Release|x86.Build.0 = Release|x86
+		{7B4DE5FB-BC53-41C3-BA8E-63A35404A796}.Debug|x86.ActiveCfg = Debug|x86
+		{7B4DE5FB-BC53-41C3-BA8E-63A35404A796}.Debug|x86.Build.0 = Debug|x86
+		{7B4DE5FB-BC53-41C3-BA8E-63A35404A796}.Release|x86.ActiveCfg = Release|x86
+		{7B4DE5FB-BC53-41C3-BA8E-63A35404A796}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

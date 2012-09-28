@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-MetodoSemArgumentos", "001-MetodoSemArgumentos\001-MetodoSemArgumentos.csproj", "{444E947B-08CE-43EC-8E73-FB194830C64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-MetodoComArgumentos", "002-MetodoComArgumentos\002-MetodoComArgumentos.csproj", "{DE67C178-BC83-4577-B6ED-46412830EF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-MetodoComArgumentoOpcional", "003-MetodoComArgumentoOpcional\003-MetodoComArgumentoOpcional.csproj", "{A914AEC2-8BB0-4A3D-9EE3-FBD8545F9500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-MetodoComArgumentoOut", "004-MetodoComArgumentoOut\004-MetodoComArgumentoOut.csproj", "{C0F72C22-82F7-466E-8CF9-0B73908FA565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-MetodoComArgumentoRef", "005-MetodoComArgumentoRef\005-MetodoComArgumentoRef.csproj", "{C945A717-A2EA-4156-BC21-4E1D3624BFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-SobrecargaMetodo", "006-SobrecargaMetodo\006-SobrecargaMetodo.csproj", "{619D0AAB-D917-4F07-ACA9-A9728158CF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-Heranca", "007-Heranca\007-Heranca.csproj", "{448C73AC-3FA7-4F81-9802-8ACE276CAB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-Figuras", "008-Figuras\008-Figuras.csproj", "{E7617466-34C7-460B-B686-F1EC90BF1778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444E947B-08CE-43EC-8E73-FB194830C64D}.Debug|x86.ActiveCfg = Debug|x86
+		{444E947B-08CE-43EC-8E73-FB194830C64D}.Debug|x86.Build.0 = Debug|x86
+		{444E947B-08CE-43EC-8E73-FB194830C64D}.Release|x86.ActiveCfg = Release|x86
+		{444E947B-08CE-43EC-8E73-FB194830C64D}.Release|x86.Build.0 = Release|x86
+		{DE67C178-BC83-4577-B6ED-46412830EF0B}.Debug|x86.ActiveCfg = Debug|x86
+		{DE67C178-BC83-4577-B6ED-46412830EF0B}.Debug|x86.Build.0 = Debug|x86
+		{DE67C178-BC83-4577-B6ED-46412830EF0B}.Release|x86.ActiveCfg = Release|x86
+		{DE67C178-BC83-4577-B6ED-46412830EF0B}.Release|x86.Build.0 = Release|x86
+		{A914AEC2-8BB0-4A3D-9EE3-FBD8545F9500}.Debug|x86.ActiveCfg = Debug|x86
+		{A914AEC2-8BB0-4A3D-9EE3-FBD8545F9500}.Debug|x86.Build.0 = Debug|x86
+		{A914AEC2-8BB0-4A3D-9EE3-FBD8545F9500}.Release|x86.ActiveCfg = Release|x86
+		{A914AEC2-8BB0-4A3D-9EE3-FBD8545F9500}.Release|x86.Build.0 = Release|x86
+		{C0F72C22-82F7-466E-8CF9-0B73908FA565}.Debug|x86.ActiveCfg = Debug|x86
+		{C0F72C22-82F7-466E-8CF9-0B73908FA565}.Debug|x86.Build.0 = Debug|x86
+		{C0F72C22-82F7-466E-8CF9-0B73908FA565}.Release|x86.ActiveCfg = Release|x86
+		{C0F72C22-82F7-466E-8CF9-0B73908FA565}.Release|x86.Build.0 = Release|x86
+		{C945A717-A2EA-4156-BC21-4E1D3624BFC2}.Debug|x86.ActiveCfg = Debug|x86
+		{C945A717-A2EA-4156-BC21-4E1D3624BFC2}.Debug|x86.Build.0 = Debug|x86
+		{C945A717-A2EA-4156-BC21-4E1D3624BFC2}.Release|x86.ActiveCfg = Release|x86
+		{C945A717-A2EA-4156-BC21-4E1D3624BFC2}.Release|x86.Build.0 = Release|x86
+		{619D0AAB-D917-4F07-ACA9-A9728158CF6C}.Debug|x86.ActiveCfg = Debug|x86
+		{619D0AAB-D917-4F07-ACA9-A9728158CF6C}.Debug|x86.Build.0 = Debug|x86
+		{619D0AAB-D917-4F07-ACA9-A9728158CF6C}.Release|x86.ActiveCfg = Release|x86
+		{619D0AAB-D917-4F07-ACA9-A9728158CF6C}.Release|x86.Build.0 = Release|x86
+		{448C73AC-3FA7-4F81-9802-8ACE276CAB15}.Debug|x86.ActiveCfg = Debug|x86
+		{448C73AC-3FA7-4F81-9802-8ACE276CAB15}.Debug|x86.Build.0 = Debug|x86
+		{448C73AC-3FA7-4F81-9802-8ACE276CAB15}.Release|x86.ActiveCfg = Release|x86
+		{448C73AC-3FA7-4F81-9802-8ACE276CAB15}.Release|x86.Build.0 = Release|x86
+		{E7617466-34C7-460B-B686-F1EC90BF1778}.Debug|x86.ActiveCfg = Debug|x86
+		{E7617466-34C7-460B-B686-F1EC90BF1778}.Debug|x86.Build.0 = Debug|x86
+		{E7617466-34C7-460B-B686-F1EC90BF1778}.Release|x86.ActiveCfg = Release|x86
+		{E7617466-34C7-460B-B686-F1EC90BF1778}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
