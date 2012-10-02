@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-Heranca", "007-Heranca\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-Figuras", "008-Figuras\008-Figuras.csproj", "{E7617466-34C7-460B-B686-F1EC90BF1778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-Triangulos", "009-Triangulos\009-Triangulos.csproj", "{5E65876A-E5CF-43C7-9D14-9B225E9DB97E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{E7617466-34C7-460B-B686-F1EC90BF1778}.Debug|x86.Build.0 = Debug|x86
 		{E7617466-34C7-460B-B686-F1EC90BF1778}.Release|x86.ActiveCfg = Release|x86
 		{E7617466-34C7-460B-B686-F1EC90BF1778}.Release|x86.Build.0 = Release|x86
+		{5E65876A-E5CF-43C7-9D14-9B225E9DB97E}.Debug|x86.ActiveCfg = Debug|x86
+		{5E65876A-E5CF-43C7-9D14-9B225E9DB97E}.Debug|x86.Build.0 = Debug|x86
+		{5E65876A-E5CF-43C7-9D14-9B225E9DB97E}.Release|x86.ActiveCfg = Release|x86
+		{5E65876A-E5CF-43C7-9D14-9B225E9DB97E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

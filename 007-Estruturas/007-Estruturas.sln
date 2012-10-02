@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Decisao", "001-Decisao\001-Decisao.csproj", "{0B58BA0A-38F7-42CA-8EF5-9F969D205A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Triangulos", "002-Triangulos\002-Triangulos.csproj", "{8998D387-DBB5-41D4-8BC9-CDD918DABEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Repeticao", "003-Repeticao\003-Repeticao.csproj", "{EA06FF49-0FE1-4503-8A5E-61BC897FC06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-Equacao", "004-Equacao\004-Equacao.csproj", "{F25A5DAB-9E5C-4640-99CA-7A85B55E30EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B58BA0A-38F7-42CA-8EF5-9F969D205A31}.Debug|x86.ActiveCfg = Debug|x86
+		{0B58BA0A-38F7-42CA-8EF5-9F969D205A31}.Debug|x86.Build.0 = Debug|x86
+		{0B58BA0A-38F7-42CA-8EF5-9F969D205A31}.Release|x86.ActiveCfg = Release|x86
+		{0B58BA0A-38F7-42CA-8EF5-9F969D205A31}.Release|x86.Build.0 = Release|x86
+		{8998D387-DBB5-41D4-8BC9-CDD918DABEC9}.Debug|x86.ActiveCfg = Debug|x86
+		{8998D387-DBB5-41D4-8BC9-CDD918DABEC9}.Debug|x86.Build.0 = Debug|x86
+		{8998D387-DBB5-41D4-8BC9-CDD918DABEC9}.Release|x86.ActiveCfg = Release|x86
+		{8998D387-DBB5-41D4-8BC9-CDD918DABEC9}.Release|x86.Build.0 = Release|x86
+		{EA06FF49-0FE1-4503-8A5E-61BC897FC06C}.Debug|x86.ActiveCfg = Debug|x86
+		{EA06FF49-0FE1-4503-8A5E-61BC897FC06C}.Debug|x86.Build.0 = Debug|x86
+		{EA06FF49-0FE1-4503-8A5E-61BC897FC06C}.Release|x86.ActiveCfg = Release|x86
+		{EA06FF49-0FE1-4503-8A5E-61BC897FC06C}.Release|x86.Build.0 = Release|x86
+		{F25A5DAB-9E5C-4640-99CA-7A85B55E30EF}.Debug|x86.ActiveCfg = Debug|x86
+		{F25A5DAB-9E5C-4640-99CA-7A85B55E30EF}.Debug|x86.Build.0 = Debug|x86
+		{F25A5DAB-9E5C-4640-99CA-7A85B55E30EF}.Release|x86.ActiveCfg = Release|x86
+		{F25A5DAB-9E5C-4640-99CA-7A85B55E30EF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
