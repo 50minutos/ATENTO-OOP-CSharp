@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Browser", "001-Browser\001-Browser.csproj", "{A6906A09-F815-47C3-A7E1-C260072F5E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Calculadora", "002-Calculadora\002-Calculadora.csproj", "{217760E8-AB3A-468D-A09A-CFE5D691FBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6906A09-F815-47C3-A7E1-C260072F5E24}.Debug|x86.ActiveCfg = Debug|x86
+		{A6906A09-F815-47C3-A7E1-C260072F5E24}.Debug|x86.Build.0 = Debug|x86
+		{A6906A09-F815-47C3-A7E1-C260072F5E24}.Release|x86.ActiveCfg = Release|x86
+		{A6906A09-F815-47C3-A7E1-C260072F5E24}.Release|x86.Build.0 = Release|x86
+		{217760E8-AB3A-468D-A09A-CFE5D691FBC5}.Debug|x86.ActiveCfg = Debug|x86
+		{217760E8-AB3A-468D-A09A-CFE5D691FBC5}.Debug|x86.Build.0 = Debug|x86
+		{217760E8-AB3A-468D-A09A-CFE5D691FBC5}.Release|x86.ActiveCfg = Release|x86
+		{217760E8-AB3A-468D-A09A-CFE5D691FBC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
